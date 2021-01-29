@@ -1,3 +1,5 @@
+package com.invillia.challenge.java;
+
 import java.util.Arrays;
 
 /**
